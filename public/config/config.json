@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A55277e57d5137aFBB1627A61dbc00756b88Cf7",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0x8a55277e57d5137afbb1627a61dbc00756b88cf7",
+  "NETWORK": {
+    "NAME": "Avalanche-FujiTestnet",
+    "SYMBOL": "Avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "YabalancheGirls",
+  "SYMBOL": "YAVAX GAL",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/yabalanche-girls",
+  "SHOW_BACKGROUND": true
+}
